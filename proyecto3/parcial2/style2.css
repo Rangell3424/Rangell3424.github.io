@@ -1,0 +1,21 @@
+*{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: rgb(61, 55, 77);
+}
+li{
+    display: inline-block;
+    background: rgb(32, 14, 75);
+    padding: 10px;
+    margin: 10pxc;
+    }
+    
+    a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+    }
+    
+    
